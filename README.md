@@ -88,7 +88,7 @@ python app.py
 ```
 
 
-Once active, navigate to http://0.0.0.0:8000 to access the OMNI-CORE dashboard.
+Once active, navigate to http://127.0.0.1:8050/ to access the OMNI-CORE dashboard.
 
 ## 🏗️ Project Structure
 ```
